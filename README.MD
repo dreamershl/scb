@@ -6,4 +6,5 @@ Each projects detail requirements can be found in their README
 2. [scheduler readme](./scheduler/README.MD) 
 
 ## TODO:
-add unit testing for the implementations
+1. add unit testing for the implementations
+2. For production, the cache should use Google guava cache class + RocksDB for massive records
